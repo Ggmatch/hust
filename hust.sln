@@ -17,6 +17,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sort", "sort\sort.vcxproj",
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SpecialSort", "SpecialSort\SpecialSort.vcxproj", "{2B4AE53F-5987-47BC-82CE-F5DCE42B9B79}"
 EndProject
+
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
